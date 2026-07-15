@@ -38,6 +38,10 @@ For decades, the network maintained perfect harmony.
 Until AI systems began to disagree.
 
 ---
+<p align="center">
+     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M0aXJhbDJpM2tlZDcyZDNkM2NuZnFwdjBhaHk2aGk5YmJwNDQzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif
+" width="45%"> 
+</p>
 
 # ⚠ The Crisis
 
