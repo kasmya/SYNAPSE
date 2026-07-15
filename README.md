@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,30:1E3A8A,70:7C3AED,100:EC4899&height=260&section=header&text=PROJECT%20SYNAPSE&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-# 🚀 PROJECT SYNAPSE
-
 ### **When AI Disagrees, Humanity Decides.**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Interactive+Mission+Control;Human-AI+Governance;Consensus+Architect;Frontend+Hackathon+Project"/>
@@ -163,8 +161,6 @@ PROJECT SYNAPSE explores a future where humans no longer govern infrastructure d
 <img src="https://media.tenor.com/9mcy3m3wK8QAAAAC/stars-space.gif" width="100%">
 
 ## 🚀 PROJECT SYNAPSE
-
-### **When AI Disagrees, Humanity Decides.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,40:7C3AED,70:2563EB,100:0B1020&height=120&section=footer"/>
 
