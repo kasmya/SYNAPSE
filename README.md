@@ -1,126 +1,172 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,30:1E3A8A,70:7C3AED,100:EC4899&height=260&section=header&text=PROJECT%20SYNAPSE&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+
 # 🚀 PROJECT SYNAPSE
 
-> **When AI Disagrees, Humanity Decides.**
+### **When AI Disagrees, Humanity Decides.**
 
-An immersive frontend experience imagining the future of **Human-AI governance**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Interactive+Mission+Control;Human-AI+Governance;Consensus+Architect;Frontend+Hackathon+Project"/>
+
+<br>
+
+<img src="https://media.tenor.com/Rd0fQ5AqY6gAAAAC/space-stars.gif" width="100%"/>
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
 
 ---
 
-# 🌌 The Premise
+# 🌌 The Story
 
-**Year 2148.**
+<p align="center">
+<img src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/galaxy-space.gif" width="90%">
+</p>
 
-Humanity has expanded beyond Earth, establishing thriving civilizations across **47 inhabited worlds** connected under the **Stellar Federation**.
+### **Year 2148**
 
-Powering this civilization is **SYNAPSE**—a self-organizing intelligence network where millions of autonomous AI agents independently manage energy, transportation, healthcare, defense, communications, and life-support.
+Humanity has expanded beyond Earth, establishing thriving civilizations across **47 inhabited worlds**, united under the **Stellar Federation**.
 
-For decades, these systems operated in perfect harmony.
+At the heart of this civilization lies **SYNAPSE**—a self-organizing intelligence network where millions of autonomous AI agents coordinate **energy, healthcare, transportation, defense, communications, and life-support** across every world.
 
-Until they didn't.
+For decades, the network maintained perfect harmony.
 
-A sudden surge in resource demand causes AI systems to pursue competing objectives. Every agent makes the *correct* decision based on its own priorities—but together, their actions begin destabilizing entire planetary colonies.
+Until AI systems began to disagree.
 
-A hospital requires emergency power.
+---
 
-A transit network demands the same energy to evacuate civilians.
+# ⚠ The Crisis
 
-Medical drones request unrestricted airspace.
+<p align="center">
+<img src="https://media.tenor.com/5M0S4xM8b6MAAAAC/hud-futuristic.gif" width="80%">
+</p>
+
+Every autonomous agent is making the **correct decision**.
+
+Yet together...
+
+Their actions begin destabilizing civilization.
+
+- 🩺 Grid AI prioritizes hospitals.
+- 🚄 Transit AI demands emergency power.
+- 🚁 Drone AI requests unrestricted airspace.
 
 No AI is malfunctioning.
 
 The problem isn't intelligence.
 
-It's **consensus**.
-
-When autonomous systems can no longer agree, humanity becomes the final decision-maker.
-
-As a **Consensus Architect**, your responsibility isn't to control AI—but to understand it, supervise cooperation, predict outcomes, and intervene only when consensus can no longer be achieved.
-
-Welcome to **PROJECT SYNAPSE**.
+## **The problem is consensus.**
 
 ---
 
-# 🎯 Mission
+# 👤 Your Mission
 
-Restore harmony across the Stellar Federation by helping autonomous AI systems reach consensus before localized conflicts cascade into interstellar crises.
+<p align="center">
+<img src="https://media.tenor.com/6LkN5vY2lCcAAAAC/artificial-intelligence-ai.gif" width="75%">
+</p>
 
-Observe. Understand. Predict. Intervene.
+As the **Consensus Architect**, you become humanity's final safeguard.
 
----
+Your mission is to monitor autonomous intelligence, understand AI reasoning, simulate intervention strategies, and restore harmony before localized conflicts become interstellar catastrophes.
 
-# 🖥️ Experience
-
-PROJECT SYNAPSE is designed as a **story-driven mission control experience**, gradually immersing the user into the role of a Consensus Architect.
-
-### 🌌 Hero Section
-Introduces the world of SYNAPSE and establishes the user's role through a cinematic landing experience.
-
-### 📜 Mission Briefing
-Explains the ongoing AI conflict, mission objectives, and the responsibility of the Consensus Architect.
-
-### 🌍 Live AI Swarm Map
-Visualizes planetary AI activity and highlights emerging conflict zones.
-
-### 🧠 Consensus Engine
-Detects disagreements between autonomous AI systems and monitors network-wide cooperation.
-
-### 💡 Explainable AI
-Provides transparent reasoning behind every autonomous decision.
-
-### 🔮 Digital Twin Simulator
-Allows users to simulate intervention strategies before executing them.
-
-### 💜 Harmony Index
-Measures the overall stability of the AI ecosystem in real time.
-
-### ⚡ Intervention Console
-Enables human-approved actions to restore consensus across the network.
+```text
+Observe
+      ↓
+Understand
+      ↓
+Predict
+      ↓
+Intervene
+      ↓
+Restore Harmony
+```
 
 ---
 
-# ✨ Frontend Highlights
+# 🖥 Website Experience
 
-- Interactive mission-control interface
-- Responsive futuristic UI
-- Smooth animations & micro-interactions
-- Dynamic visualizations
-- Glassmorphism-inspired design
-- Story-driven user experience
+| 🌍 Section | Description |
+|------------|-------------|
+| Hero | Introduces the SYNAPSE universe |
+| Mission Brief | Explains the crisis and objective |
+| AI Swarm Map | Monitor planetary AI systems |
+| Consensus Engine | Detect AI conflicts |
+| Explainable AI | Understand autonomous reasoning |
+| Digital Twin | Simulate intervention outcomes |
+| Harmony Index | Measure ecosystem stability |
+| Intervention Console | Restore consensus |
+
+---
+
+# ✨ Frontend Experience
+
+<p align="center">
+<img src="https://media.tenor.com/rBNaJ6vL7kAAAAAC/hologram-futuristic.gif" width="90%">
+</p>
+
+- 🌌 Interactive Mission Control
+- ⚡ Smooth Animations & Micro-interactions
+- 📊 Dynamic Data Visualizations
+- 💎 Glassmorphism UI
+- 📱 Fully Responsive Experience
+- 🚀 Story-driven User Journey
 
 ---
 
 # 🎨 Design Language
 
-PROJECT SYNAPSE draws inspiration from futuristic command centers and deep-space interfaces.
+<p align="center">
+<img src="https://media.tenor.com/Va4VvJ8Jw7IAAAAC/space-universe.gif" width="90%">
+</p>
 
-- 🌌 Space-inspired visuals
-- 🟣 Black • Blue • Purple palette
+PROJECT SYNAPSE is inspired by futuristic command centers and deep-space interfaces.
+
+- 🌌 Space-inspired aesthetics
+- 💜 Black • Blue • Purple color palette
 - ✨ Glassmorphism
-- 🌐 Neural network aesthetics
+- 🌐 Neural network visuals
 - ⚡ Cinematic transitions
-- 🎯 Minimal, immersive layouts
+- 🎯 Minimal immersive layouts
 
 ---
 
 # 🛠 Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Tailwind CSS
-- Chart.js
-- GSAP
+```text
+HTML5
+CSS3
+JavaScript
+Tailwind CSS
+Chart.js
+GSAP
+```
 
 ---
 
 # 💭 Philosophy
 
-> *Artificial intelligence keeps civilization running.*
+> **Artificial Intelligence keeps civilization running.**
 
-> *Human intelligence keeps it aligned.*
+> **Human Intelligence keeps it aligned.**
 
-PROJECT SYNAPSE explores a future where AI doesn't replace humanity—it collaborates with it. By placing humans at the center of critical decisions, the project emphasizes transparency, explainability, and ethical oversight in an increasingly autonomous world.
+PROJECT SYNAPSE explores a future where humans no longer govern infrastructure directly—but safeguard cooperation between autonomous intelligence through transparency, explainability, and ethical oversight.
 
 ---
 
-## **When AI Disagrees, Humanity Decides.**
+<div align="center">
+
+<img src="https://media.tenor.com/9mcy3m3wK8QAAAAC/stars-space.gif" width="100%">
+
+## 🚀 PROJECT SYNAPSE
+
+### **When AI Disagrees, Humanity Decides.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,40:7C3AED,70:2563EB,100:0B1020&height=120&section=footer"/>
+
+</div>
